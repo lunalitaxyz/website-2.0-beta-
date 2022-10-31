@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>stay alive unu</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width-device-width, initial scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://media.discordapp.net/attachments/812021940000784454/951254628530520104/1645754996412.jpg" rel="shortcut icon" type="image/ico">
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WYQ3F0VX1X"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+ 
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WYQ3F0VX1X');
+  </script>
+  <style type="text/css">
+
+
+      @media (min-width:320px)  { 
+    table, p, img {
+    padding-right: 1em;
+    width: 65%;
+    }
+  }
+  @media (min-width:480px)  { 
+  }
+  @media (min-width:600px)  {  
+  }
+  @media (min-width:801px)  { 
+  }
+  @media (min-width:1025px) { 
+  }
+  @media (min-width:1281px) { 
+  }
+  </style>
+</head>
+<body>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="/style.css">
+</body>
+
+
+</html>
